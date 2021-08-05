@@ -1,6 +1,6 @@
 # unraid_vm_icons
 ## A frok from SpaceinvaderOne/unraid_vm_icons
-### adding more icons everythingelse remain the same.
+### adding more icons, everythingelse remain the same.
 
 A docker container that downloads and installs additional custom VM icons to the Unraid VM Manager.
 
